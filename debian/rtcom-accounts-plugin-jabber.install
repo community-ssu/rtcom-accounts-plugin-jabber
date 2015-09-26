@@ -1,0 +1,4 @@
+usr/lib/libaccounts-plugins/libjabber-plugin.so*
+usr/lib/libaccounts-plugins/xml/jabber-advanced.glade
+usr/lib/libaccounts-plugins/xml/jabber-new-account.glade
+usr/share/osso-rtcom/jabber.profile
