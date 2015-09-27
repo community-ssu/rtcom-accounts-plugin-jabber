@@ -27,6 +27,7 @@ AC_PROG_LIBTOOL
 
 PKG_CHECK_MODULES(ACCOUNTS, rtcom-accounts-widgets)
 PKG_CHECK_MODULES(GLADE, libglade-2.0)
+PKG_CHECK_MODULES(TELEPATHY_GLIB, telepathy-glib)
 
 dnl Localization
 GETTEXT_PACKAGE=osso-applet-accounts
