@@ -1,3 +1,10 @@
+rtcom-accounts-plugin-jabber (4.140-3) fremantle; urgency=low
+
+  * Fix bug https://bugs.maemo.org/show_bug.cgi?id=2141:
+    Allow setting priority in Jabber
+
+ -- Pali Rohár <pali.rohar@gmail.com>  Sat, 28 Nov 2015 21:23:23 +0100
+
 rtcom-accounts-plugin-jabber (4.140-2) fremantle; urgency=low
 
   * Initial import
